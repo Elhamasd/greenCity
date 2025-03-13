@@ -9,4 +9,4 @@ This web-application is developed with **HTML**, **CSS** **Tailwind**, **JS** **
 The **Scrum** framework is used during the development of this project
 UML diagrams such as **Usecase** and **ER Diaram** is designed for this project
 ### To visit
-This web-application is avaialbe under [GreenCity](https://www.qq3.ir/) (https://www.qq3.ir/)
+
